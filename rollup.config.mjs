@@ -5,6 +5,7 @@ import dts from "rollup-plugin-dts";
 import packageJson from "./package.json" assert { type: "json" };
 
 //const packageJson = require("./package.json");
+//to fix tslib error
 //npm i -D tslib
 
 export default [
