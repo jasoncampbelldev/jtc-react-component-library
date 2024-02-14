@@ -1,0 +1,19 @@
+
+Steps:
+
+//npm init
+//npm install react typescript @types/react --save-dev
+//npx tsc --init
+//npm install rollup @rollup/plugin-node-resolve @rollup/plugin-typescript @rollup/plugin-commonjs rollup-plugin-dts --save-dev
+//to fix tslib error
+//npm i -D tslib
+//npm run rollup
+//npm publish
+//npm install rollup-plugin-peer-deps-external
+//npm install @rollup/plugin-terser
+//npm install @testing-library/react jest @types/jest --save-dev
+//npm install @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript babel-jest --save-dev
+//npm install identity-obj-proxy --save-dev 
+//npx sb init --builder webpack5
+//npm run storybook
+//npm install @storybook/preset-scss css-loader sass sass-loader style-loader --save-dev
