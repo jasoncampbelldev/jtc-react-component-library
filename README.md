@@ -1,2 +1,2 @@
 # react-component-library
-REACT Component Library
+JTC REACT Component Library
